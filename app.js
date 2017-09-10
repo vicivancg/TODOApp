@@ -10,10 +10,10 @@ app.set('view engine', 'ejs');
 app.use(express.static('./public'));
 
 //Fire controllers
-
+process.env.PORT || 5000
 todoController(app);
 
 //Listen to port
-app.listen(3000);
+app.listen(process.env.PORT || 5000);
 
 console.log('You are listening to port 3000');
