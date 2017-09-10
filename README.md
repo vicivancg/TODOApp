@@ -1,9 +1,16 @@
-# node-js-playlist
-CSS and asset files for the Net Ninja YouTube nodejs playlist
+# TODO App
 
-The final project code can be found in the public/assests folder of this repo
+Aplicación desarrolada en el tutorial de Node js de The Net Ninja.
 
-If you have been following the tutorial, code for each and every lesson is added in the Practice folder so you can directly download and check.
-All files have been tested.
+Dependencias:
 
-If more files for  .\Practice\ should be added. They will be added very soon.
+	- Express
+	- EJS
+	- Body-parser
+	- Mongoose
+	
+La base de datos es mongodb, en el tutorial se utilizo mlab, se los recomiendo muchismo-
+
+Mis agradecimientos a The Net Ninja por su gran tutorial =)
+
+link a la playlist: https://youtu.be/w-7RQ46RgxU
