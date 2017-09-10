@@ -5,7 +5,7 @@ var mongoose = require('mongoose');
 //Connect to the database
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://test:test@ds131384.mlab.com:31384/todoapp',{ useMongoClient: true });
+mongoose.connect('Cadena de conexión de tu servicio de mongodb',{ useMongoClient: true });
 
 //Create a schema - this is like a blueprint
 
