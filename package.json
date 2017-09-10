@@ -4,7 +4,7 @@
   "description": "TODOApp NetNinja Final Project (Nodejs for beginners)",
   "main": "app.js",
   "scripts": {
-      "start": "node index.js",
+      "start": "node app.js",
       "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vic, just Vic",
